@@ -35,8 +35,7 @@ This project analyzes restaurant data from the Zomato dataset using Python. The 
 ## Project Files
 ```
 Zomato-Data-Analysis/
-│── zomato_analysis.ipynb
-│── zomato.csv
+│── Task 2-Cuisine Combination.ipynb
 │── README.md
 ```
 
